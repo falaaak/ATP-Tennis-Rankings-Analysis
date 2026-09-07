@@ -20,3 +20,6 @@ Power BI; calculated measures; interactive slicers and visualizations.
 
 **Skills demonstrated**
 Sports data analysis, KPI design, time-series analysis, segmentation, dashboard design, and data storytelling.
+
+## Dashboard Screenshot
+![ATP Tennis Rankings Analysis Dashboard](./atp-tennis.png)
