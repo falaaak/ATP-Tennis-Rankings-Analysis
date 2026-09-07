@@ -22,4 +22,4 @@ Power BI; calculated measures; interactive slicers and visualizations.
 Sports data analysis, KPI design, time-series analysis, segmentation, dashboard design, and data storytelling.
 
 ## Dashboard Screenshot
-![ATP Tennis Rankings Analysis Dashboard](./atp-tennis.png)
+![ATP Tennis Rankings Analysis Dashboard](./atp-tennis.png?v=2)
